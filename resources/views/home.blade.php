@@ -15,7 +15,7 @@
           </div>
         </div>
       </div>
-{{--
+
       <div class="col-md-4 mb-3">
         <div class="card shadow-sm">
           <div class="card-body">
@@ -24,7 +24,7 @@
             <p class="text-danger mb-1">Invested Dividends</p>
           </div>
         </div>
-      </div> --}}
+      </div>
 
       <div class="col-md-4 mb-3">
         <div class="card shadow-sm">

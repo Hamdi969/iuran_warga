@@ -9,7 +9,7 @@
 
 
 
-      <a href="#" class="btn btn-sm fw-bold text-white" style="background: rgb(7, 21, 209); border-radius: 10px;">Masuk</a>
+      <a href="/login" class="btn btn-sm fw-bold text-white" style="background: rgb(7, 21, 209); border-radius: 10px;">Masuk</a>
     </div>
   </div>
 </nav>
